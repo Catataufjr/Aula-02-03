@@ -1,0 +1,42 @@
+body {
+    background-color: #9fc131;
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 15px; ;
+}
+
+ul{
+    display: flex;
+    justify-content:space-between;
+    list-style-type:none;
+    align-items: center;
+    padding: 20px;
+    
+}
+a{
+    color: #042940;
+    text-decoration: none;
+}
+
+.CATATAU{
+
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 5px solid white;
+}
+
+.center{
+    text-align: center;
+}
+.center1{
+    text-align: left;
+}
+.center2{
+    text-align: right;
+    
+}
+
+.imagem{
+    display: flex;
+    justify-content: space-between;
+}
